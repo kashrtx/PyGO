@@ -1,7 +1,7 @@
 # PyGO
 PyGO: The easy way to send and receive files with Python.
 
-Made using Tkinter library <3
+Made using Tkinter library. 
 This project was aimed to be a simple file transferring program with inspiration 
 from AnyDesk and TeamViewer. It allows you to send files between two computers 
 using a randomly generated ID/Password. Figma was used to make the UI. Big 
@@ -25,5 +25,5 @@ paste the ID and password in their respective entry box. Next open
 the directory in where you want to save the file, then click receive.
 After the file will be transferred into that folder you requested.
 
-That's it! It's as Simple as that and you can do this over and over.
+That's it! It's as Simple as that and you can do this over and over <3.
 
