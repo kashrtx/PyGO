@@ -25,5 +25,9 @@ paste the ID and password in their respective entry box. Next open
 the directory in where you want to save the file, then click receive.
 After the file will be transferred into that folder you requested.
 
+Note: You can also just click the purple button at the right bottom corner
+      which allows you to switch between sender and receiver. The ID/Pass
+      will change everytime you do that though.
+
 That's it! It's as Simple as that and you can do this over and over <3.
 
