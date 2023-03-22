@@ -12,8 +12,8 @@ but right now it is set to locally.
 
 Note: The Project is in it's earliest stage of development. More changes may
       come in the future. Right now if you want to transfer between computers
-      you need to know their IP address (planning to make this feature automatic
-      in the future).
+      you need to know their IP address on the sender end of the code 
+      (planning to make this feature automatic in the future).
       
 Instructions: 
 - The sender will open the sender.py file, run it, then a GUI will appear, 
