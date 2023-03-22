@@ -26,8 +26,10 @@ the directory in where you want to save the file, then click receive.
 After the file will be transferred into that folder you requested.
 
 Note: You can also just click the purple button at the right bottom corner
+      (Doesn't work on exe, not coded for that yet. Only works on python IDE.)
       which allows you to switch between sender and receiver. The ID/Pass
-      will change everytime you do that though.
+      will change everytime you do that though. Tested to work on a Windows computer
+      right now.
 
 That's it! It's as Simple as that and you can do this over and over <3.
 
