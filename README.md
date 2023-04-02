@@ -28,6 +28,8 @@ paste the ID, password and IP in their respective entry box. Next open
 the directory in where you want to save the file, then click receive.
 After the file will be transferred into that folder you requested.
 
+Note: Your network may block certain ports like 8080 preventing the
+program from working correctly. Ensure ports aren't blocked.
 
 That's it! It's as Simple as that and you can do this over and over <3.
 
